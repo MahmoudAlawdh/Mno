@@ -1,54 +1,29 @@
-<div id="wbars_all">
+Privacy Policy of منو!    
 
-<div class="iub_container iub_base_container">
-
-<div id="wbars">
-
-<div class="iub_content legal_pp">
-
-<div>
-
-# Privacy Policy of **منو!**
+Privacy Policy of **منو!**
+==========================
 
 This Application collects some Personal Data from its Users.
 
-</div>
+Policy summary
+--------------
 
-<div>
-
-<div>
-
-## Policy summary
-
-</div>
-
-## Personal Data collected for the following purposes and using the following services:
-
-<div>
+Personal Data collected for the following purposes and using the following services:
+------------------------------------------------------------------------------------
 
 *   ### Device permissions for Personal Data access
-
+    
     Personal Data: Contacts permission
+    
 
-</div>
+Full policy
+-----------
 
-</div>
+Data Controller and Owner
+-------------------------
 
-<div>
-
-## Full policy
-
-</div>
-
-<div>
-
-## Data Controller and Owner
-
-</div>
-
-<div>
-
-## Types of Data collected
+Types of Data collected
+-----------------------
 
 Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Contacts permission.
 
@@ -60,11 +35,8 @@ Any use of Cookies – or of other tracking tools – by this Application or by 
 
 Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
 
-</div>
-
-<div>
-
-## Mode and place of processing the Data
+Mode and place of processing the Data
+-------------------------------------
 
 ### Methods of processing
 
@@ -79,21 +51,15 @@ The Data is processed at the Data Controller's operating offices and in any othe
 
 The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request that the Data Controller suspend or remove the data.
 
-</div>
-
-<div>
-
-## The use of the collected Data
+The use of the collected Data
+-----------------------------
 
 The Data concerning the User is collected to allow the Owner to provide its services, as well as for the following purposes: Device permissions for Personal Data access.
 
 The Personal Data used for each purpose is outlined in the specific sections of this document.
 
-</div>
-
-<div>
-
-## Device permissions for Personal Data access
+Device permissions for Personal Data access
+-------------------------------------------
 
 Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
 
@@ -108,37 +74,24 @@ If User grants any of the permissions listed below, the respective Personal Data
 
 Used for accessing contacts and profiles on the User's device, including the changing of entries.
 
-</div>
-
-<div>
-
-## Detailed information on the processing of Personal Data
+Detailed information on the processing of Personal Data
+-------------------------------------------------------
 
 Personal Data is collected for the following purposes and using the following services:
 
-*   <div>
-
-    ### Device permissions for Personal Data access
-
-    <div>
-
+*   ### Device permissions for Personal Data access
+    
     This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
-
+    
     #### Device permissions for Personal Data access (this Application)
-
+    
     This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
-
+    
     Personal Data collected: Contacts permission.
+    
 
-    </div>
-
-    </div>
-
-</div>
-
-<div>
-
-## Additional information about Data collection and processing
+Additional information about Data collection and processing
+-----------------------------------------------------------
 
 ### Legal action
 
@@ -172,15 +125,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
 
-</div>
-
-<div>
-
-<div>
-
 ### Definitions and legal references
-
-<div>
 
 #### Personal Data (or Data)
 
@@ -217,17 +162,3 @@ The hardware or software tool by which the Personal Data of the User is collecte
 Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
 
 This privacy policy relates solely to this Application.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
