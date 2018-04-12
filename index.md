@@ -161,6 +161,9 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy relates solely to this Application.
 
+<--rtl-- Foo
+Bar
+
 سياسة الخصوصية لتطبيق منو!
 ==========================
 هذا التطبيق يسهل على المستخدم الاستعلام عن رقم الهاتف لمعرفة هوية المتصل .
