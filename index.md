@@ -1,3 +1,9 @@
+Mno
+===
+
+Mno Mobile Application
+----------------------
+
 Privacy Policy of **منو!**
 ==========================
 
@@ -31,7 +37,7 @@ All Data requested by this Application is mandatory and failure to provide this 
 Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
 Any use of Cookies – or of other tracking tools – by this Application or by the owners of third-party services used by this Application serves the purpose of providing the service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
 
-Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party's consent to provide the Data to the Owner.
+Users are responsible for any third-party Personal Data obtained, published or shared through this Application and confirm that they have the third party’s consent to provide the Data to the Owner.
 
 Mode and place of processing the Data
 -------------------------------------
@@ -43,7 +49,7 @@ The Data processing is carried out using computers and/or IT enabled tools, foll
 
 ### Place
 
-The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
+The Data is processed at the Data Controller’s operating offices and in any other places where the parties involved with the processing are located. For further information, please contact the Data Controller.
 
 ### Retention time
 
@@ -59,10 +65,10 @@ The Personal Data used for each purpose is outlined in the specific sections of 
 Device permissions for Personal Data access
 -------------------------------------------
 
-Depending on the User's specific device, this Application may request certain permissions that allow it to access the User's device Data as described below.
+Depending on the User’s specific device, this Application may request certain permissions that allow it to access the User’s device Data as described below.
 
 By default, these permissions must be granted by the User before the respective information can be accessed. Once the permission has been given, it can be revoked by the User at any time. In order to revoke these permissions, Users may refer to the device settings or contact the Owner for support at the contact details provided in the present document.  
-The exact procedure for controlling app permissions may be dependent on the User's device and software.
+The exact procedure for controlling app permissions may be dependent on the User’s device and software.
 
 Please note that the revoking of such permissions might impact the proper functioning of this Application.
 
@@ -70,7 +76,7 @@ If User grants any of the permissions listed below, the respective Personal Data
 
 ### Contacts permission
 
-Used for accessing contacts and profiles on the User's device, including the changing of entries.
+Used for accessing contacts and profiles on the User’s device, including the changing of entries.
 
 Detailed information on the processing of Personal Data
 -------------------------------------------------------
@@ -79,11 +85,11 @@ Personal Data is collected for the following purposes and using the following se
 
 *   ### Device permissions for Personal Data access
     
-    This Application requests certain permissions from Users that allow it to access the User's device Data as described below.
+    This Application requests certain permissions from Users that allow it to access the User’s device Data as described below.
     
     #### Device permissions for Personal Data access (this Application)
     
-    This Application requests certain permissions from Users that allow it to access the User's device Data as summarized here and described within this document.
+    This Application requests certain permissions from Users that allow it to access the User’s device Data as summarized here and described within this document.
     
     Personal Data collected: Contacts permission.
     
@@ -93,10 +99,10 @@ Additional information about Data collection and processing
 
 ### Legal action
 
-The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
+The User’s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.  
 The User declares to be aware that the Data Controller may be required to reveal personal data upon request of public authorities.
 
-### Additional information about User's Personal Data
+### Additional information about User’s Personal Data
 
 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual information concerning particular services or the collection and processing of Personal Data upon request.
 
@@ -121,7 +127,7 @@ The Data Controller reserves the right to make changes to this privacy policy at
 
 ### Information about this privacy policy
 
-The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda's servers.
+The Data Controller is responsible for this privacy policy, prepared starting from the modules provided by Iubenda and hosted on Iubenda’s servers.
 
 ### Definitions and legal references
 
@@ -131,7 +137,7 @@ Any information regarding a natural person, a legal person, an institution or an
 
 #### Usage Data
 
-Information collected automatically from this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+Information collected automatically from this Application (or third-party services employed in this Application), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server’s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User’s IT environment.
 
 #### User
 
@@ -161,44 +167,57 @@ Notice to European Users: this privacy statement has been prepared in fulfillmen
 
 This privacy policy relates solely to this Application.
 
-<--rtl-- Foo
-Bar
-
 سياسة الخصوصية لتطبيق منو!
 ==========================
-هذا التطبيق يسهل على المستخدم الاستعلام عن رقم الهاتف لمعرفة هوية المتصل .
---------------
+
+\- هذا التطبيق يسهل على المستخدم الاستعلام عن رقم الهاتف لمعرفة هوية المتصل .
+
+\- هذا التطبيق لا يقوم بالبحث عن طريق الاسم، البحث عن طريق الرقم فقط .
+
+\- هذا التطبيق غير مسؤول عن الأسماء الموجودة ولا يدعي بأي شكل من الأشكال بصحة الأسماء التابعة للأرقام الموجودة ضمنه .
+
   
-  <p> - هذا التطبيق لا يقوم بالبحث عن طريق الاسم، البحث عن طريق الرقم فقط . </p>
-    <p> - هذا التطبيق غير مسؤول عن الأسماء الموجودة ولا يدعي بأي شكل من الأشكال بصحة الأسماء التابعة للأرقام الموجودة ضمنه .</p>
-    
-    <br>
-    <h2> شروط الاستخدام:</h2>
-    <p> الموافقة على مشاركة جهات الاتصال مع البرنامج .</p>
-    <p>     عند فتح التطبيق لأول مرة يأتيك تنبيه بان هذا التطبيق سيقوم باستخدام جهات الاتصال لديك هل توافق ؟
-    <br> وإذا تمت الموافقة سيقوم البرنامج بمشاركة جهات الاتصال مع البرنامج وإذا رفضت فسوف يتوقف البرنامج عن العمل .
-    <br><br> إذا لم توافق على شروط الاستخدام تستطيع حذف التطبيق من جهازك بأي وقت .</p>
-    
-    <br>
-    <p> - صاحب التطبيق غير مسؤول عن اي معلومات غير صحيحة لاسم او رقم بأي شكل من الأشكال .</p>
-    <p> - التطبيق وصاحب التطبيق ليس له علاقة بأي شكل من الأشكال بنوعية استعماله، ولا بسبب استعماله .</p>
-    
-    <br>
-    <h2> الاستفسارات</h2>
-    <p><b> طريقة حذف رقم او اسم من البرنامج ؟ </b></p>
-    <p> لا يقوم البرنامج باستقبال طلبات حذف الرقم او الاسم نهائيا.</p>
-    <p><b> طريقة عمل بلوك او توثيق اسم لرقم ؟</b></p>
-    <p> هذه الخدمة غير متوفرة حاليا. وسوف تكون متوفرة لاحقا عن طريق البرنامج.</p>
-    <p><b> طريقة التعامل مع الاسماء المخلة للآداب العامة ؟</b></p>
-    <p> اذا كان هنالك اسم مخل للآداب العامة فيرجى ارسال رقم الهاتف على البريد الإلكتروني ليتم التحقق منه .<br>
-    بعد التحقق من الرقم اذا كان يحتوي على اسم مخل للآداب سيتم حذفه من البرنامج .</p>
-    
-    <br>
-    <h3> ملاحظات:</h3>
-    <p> طلبات حذف الرقم او عمل بلوك او توثيق الاسم لن يتم الرد عليها نهائيا.<br>
-     لن يتم الرد على طلبات حذف الاسماء المخلة للآداب العامة وسوف يتم التعامل معها تلقائيا.</p>
 
-    <p>التواصل عن طريق البريد الإلكتروني<br>
-    <a href="mailto:mno.app.ku@gmail.com" >mno.app.ku@gmail.com</a>
-    </p>
+شروط الاستخدام:
+---------------
 
+الموافقة على مشاركة جهات الاتصال مع البرنامج .
+
+عند فتح التطبيق لأول مرة يأتيك تنبيه بان هذا التطبيق سيقوم باستخدام جهات الاتصال لديك هل توافق ؟  
+وإذا تمت الموافقة سيقوم البرنامج بمشاركة جهات الاتصال مع البرنامج وإذا رفضت فسوف يتوقف البرنامج عن العمل .  
+  
+إذا لم توافق على شروط الاستخدام تستطيع حذف التطبيق من جهازك بأي وقت .
+
+  
+
+\- صاحب التطبيق غير مسؤول عن اي معلومات غير صحيحة لاسم او رقم بأي شكل من الأشكال .
+
+\- التطبيق وصاحب التطبيق ليس له علاقة بأي شكل من الأشكال بنوعية استعماله، ولا بسبب استعماله .
+
+  
+
+الاستفسارات
+-----------
+
+**طريقة حذف رقم او اسم من البرنامج ؟**
+
+لا يقوم البرنامج باستقبال طلبات حذف الرقم او الاسم نهائيا.
+
+**طريقة عمل بلوك او توثيق اسم لرقم ؟**
+
+هذه الخدمة غير متوفرة حاليا. وسوف تكون متوفرة لاحقا عن طريق البرنامج.
+
+**طريقة التعامل مع الاسماء المخلة للآداب العامة ؟**
+
+اذا كان هنالك اسم مخل للآداب العامة فيرجى ارسال رقم الهاتف على البريد الإلكتروني ليتم التحقق منه .  
+بعد التحقق من الرقم اذا كان يحتوي على اسم مخل للآداب سيتم حذفه من البرنامج .
+
+  
+
+### ملاحظات:
+
+طلبات حذف الرقم او عمل بلوك او توثيق الاسم لن يتم الرد عليها نهائيا.  
+لن يتم الرد على طلبات حذف الاسماء المخلة للآداب العامة وسوف يتم التعامل معها تلقائيا.
+
+التواصل عن طريق البريد الإلكتروني  
+[mno.app.ku@gmail.com](mailto:mno.app.ku@gmail.com)
